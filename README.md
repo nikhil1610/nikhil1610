@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil1610&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil1610" /> </p>
 
-- 👨‍💻 All of my projects are available at [nikhil-gautam.netlify.app](nikhil-gautam.netlify.app)
+- 👨‍💻 All of my projects are available at [nikhil-gautam](https://nikhil-gautam.netlify.app)
 
 - 💬 Ask me about **React, NextJS, Node**
 
