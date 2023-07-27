@@ -1,3 +1,6 @@
+
+![Nikhil Gautam Developer](https://github.com/nikhil1610/nikhil1610/blob/main/Nikhil_bannerImg.png)
+
 <h1 align="center">Hi 👋, I'm Nikhil Gautam</h1>
 <h3 align="center">A Full Stack developer by choice from India</h3>
 
@@ -5,11 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [nikhil-gautam](https://nikhil-gautam.netlify.app)
 
-- 💬 Ask me about **React, NextJS, Node**
-
 - 📫 How to reach me **nikhilgautam106@gmail.com**
-
-- ⚡ Fun fact **You ain't here to see my fun side, right? .... right?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
